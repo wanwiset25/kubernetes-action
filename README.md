@@ -1,3 +1,6 @@
+Fork of https://github.com/ConsenSys/kubernetes-action
+All credits to the original author
+
 kubernetes-action
 =============
 Interacts with kubernetes clusters calling `kubectl` commands. Integrates support for **AWS EKS**.
